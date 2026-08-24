@@ -1,82 +1,93 @@
-<h1 align="center">Hey, I'm MEL 👋</h1>
-<h3 align="center">Programmer & Game Designer | C++, C#, OpenGL & Unity</h3>
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,25&height=200&section=header&text=MEL&fontSize=80&fontColor=fff&animation=twinkling" width="100%" />
+  
+  <h3>🎮 Game Programmer & Designer | C++, C#, OpenGL & Unity</h3>
 
-<p align="center">
-  <a href="https://meldev06.itch.io/"><img src="https://img.shields.io/badge/Play_My_Games-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@mel.osu"><img src="https://img.shields.io/badge/TikTok-@mel.osu-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <a href="https://github.com/MEL55555"><img src="https://img.shields.io/badge/GitHub-MEL55555-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+  <a href="https://meldev06.itch.io/">
+    <img src="https://img.shields.io/badge/Itch.io-Play_My_Games-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@mel.osu">
+    <img src="https://img.shields.io/badge/TikTok-@mel.osu-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://github.com/MEL55555">
+    <img src="https://img.shields.io/badge/GitHub-MEL55555-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br/>
 
 <p align="center">
   🎓 <b>Game Design & Programming Student</b><br>
-  💡 Passionate about graphics programming, real-time rendering, gameplay mechanics, and engine architecture.
+  💡 Focused on graphics programming, real-time rendering, gameplay mechanics, and engine architecture.
 </p>
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="left">
-  <!-- Engines & Libraries -->
+<p align="left">
+  <!-- Engines & Rendering -->
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <br/>
   <!-- Languages -->
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <!-- Developer Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+</p>
 
 ---
 
 ## 🕹️ Featured Projects
 
-### 🎨 [Graphics Programming Project](https://github.com/MEL55555/Graphics_Programming)
-*A graphics programming project focused on creating and rendering an interactive 3D graphical environment. Implemented custom rendering techniques and spatial controls using OpenGL.*
+### 🎨 Graphics Programming Project
+> *Custom 3D graphical environment rendered with real-time controls using C++ and OpenGL.*
 
 <div align="center">
-  <!-- Replace the URL inside src with a GIF or screenshot link of your graphics project -->
-  <img src="https://via.placeholder.com/700x350.png?text=Add+Graphics+Project+GIF+or+Screenshot+Here" width="700" alt="Graphics Project Demo"/>
+  <!-- REPLACE LINK BELOW WITH YOUR GIF/SCREENSHOT -->
+  <img src="https://via.placeholder.com/700x350/0f172a/64748b?text=Add+Graphics+Project+GIF+or+Screenshot" width="100%" style="border-radius:10px;" />
 </div>
 
-* **Engine / Tech:** C++ / OpenGL
-* **Key Features:**
-  * 3D object rendering & scene creation
-  * Real-time camera systems & player movement
-  * Object transformations (position, rotation, scaling)
-  * Custom lighting, shading, and texture mapping
-* 🔗 **Repository:** [MEL55555/Graphics_Programming](https://github.com/MEL55555/Graphics_Programming)
+- **Engine / Tech:** C++ / OpenGL
+- **Key Features:** 3D object rendering, camera movement, object transformations, lighting, shading & texture mapping.
+- 🔗 **Repo:** [MEL55555/Graphics_Programming](https://github.com/MEL55555/Graphics_Programming)
 
 <br/>
 
-### ⚙️ [Games Prototyping Project](https://github.com/MEL55555/Game_Prototyping)
-*A game prototype developed to explore core gameplay systems and interactive mechanics, focusing on responsive player controls and solid game-loop logic.*
+### ⚙️ Games Prototyping Project
+> *Interactive game prototype demonstrating responsive gameplay controls, collision detection, and UI systems.*
 
 <div align="center">
-  <!-- Replace the URL inside src with a GIF or screenshot link of your Unity project -->
-  <img src="https://via.placeholder.com/700x350.png?text=Add+Unity+Prototype+GIF+or+Screenshot+Here" width="700" alt="Game Prototype Demo"/>
+  <!-- REPLACE LINK BELOW WITH YOUR GIF/SCREENSHOT -->
+  <img src="https://via.placeholder.com/700x350/0f172a/64748b?text=Add+Unity+Prototype+GIF+or+Screenshot" width="100%" style="border-radius:10px;" />
 </div>
 
-* **Engine / Tech:** Unity / C#
-* **Key Features:**
-  * Custom player movement and gameplay interactions
-  * Level design with physics and collision detection
-  * UI integration, game state flow, and prototype iteration
-* 🔗 **Repository:** [MEL55555/Game_Prototyping](https://github.com/MEL55555/Game_Prototyping)
+- **Engine / Tech:** Unity / C#
+- **Key Features:** Custom player controls, environment physics, UI flow, and state machines.
+- 🔗 **Repo:** [MEL55555/Game_Prototyping](https://github.com/MEL55555/Game_Prototyping)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Developer Activity
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MEL55555&show_icons=true&theme=dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEL55555&layout=compact&theme=dark&hide_border=true" />
+  <!-- Reliable Dark-Themed Stats Widget -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MEL55555&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MEL55555&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Dynamic Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MEL55555&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
 ---
 
-<p align="center">
-  <i>Building world mechanics, one system at a time.</i>
-</p>
+<div align="center">
+  <sub><i>Building world mechanics, one system at a time.</i></sub>
+</div>
