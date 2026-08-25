@@ -18,13 +18,19 @@
 <img src="https://img.shields.io/badge/GITHUB-0A101C?style=for-the-badge&logo=github&logoColor=00D4FF"/>
 </a>
 
-  
+&nbsp;&nbsp;
+
+<a href="https://meldevvv.github.io/">
+<img src="https://img.shields.io/badge/GAME%20PORTFOLIO-0A101C?style=for-the-badge&logo=googlechrome&logoColor=00D4FF"/>
+</a>
+
+&nbsp;&nbsp;
 
 <a href="https://meldev06.itch.io/">
 <img src="https://img.shields.io/badge/ITCH.IO-0A101C?style=for-the-badge&logo=itch.io&logoColor=00D4FF"/>
 </a>
 
-  
+&nbsp;&nbsp;
 
 <a href="https://www.tiktok.com/@mel.osu">
 <img src="https://img.shields.io/badge/TIKTOK-0A101C?style=for-the-badge&logo=tiktok&logoColor=00D4FF"/>
@@ -336,11 +342,6 @@ Continuing to explore real-time rendering, OpenGL and the technical foundations 
 
 ---
 
-
-<br>
-
----
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=DESIGN.+PROGRAM.+ITERATE.;TURNING+IDEAS+INTO+PLAYABLE+SYSTEMS.;BUILDING+THE+TECHNOLOGY+BEHIND+THE+GAME." alt="Footer"/>
@@ -351,7 +352,7 @@ Continuing to explore real-time rendering, OpenGL and the technical foundations 
 <img src="https://img.shields.io/badge/GITHUB-0A101C?style=for-the-badge&logo=github&logoColor=00D4FF"/>
 </a>
 
- 
+&nbsp;
 
 <a href="https://meldev06.itch.io/">
 <img src="https://img.shields.io/badge/ITCH.IO-0A101C?style=for-the-badge&logo=itch.io&logoColor=00D4FF"/>
