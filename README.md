@@ -26,12 +26,6 @@
 
 &nbsp;&nbsp;
 
-<a href="https://meldev06.itch.io/">
-<img src="https://img.shields.io/badge/ITCH.IO-0A101C?style=for-the-badge&logo=itch.io&logoColor=00D4FF"/>
-</a>
-
-&nbsp;&nbsp;
-
 <a href="https://www.tiktok.com/@mel.osu">
 <img src="https://img.shields.io/badge/TIKTOK-0A101C?style=for-the-badge&logo=tiktok&logoColor=00D4FF"/>
 </a>
