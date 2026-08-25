@@ -1,93 +1,399 @@
-<!-- HEADER BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,25&height=200&section=header&text=MEL&fontSize=80&fontColor=fff&animation=twinkling" width="100%" />
-  
-  <h3>🎮 Game Programmer & Designer | C++, C#, OpenGL & Unity</h3>
+<!-- ============================================================= -->
 
-  <a href="https://meldev06.itch.io/">
-    <img src="https://img.shields.io/badge/Itch.io-Play_My_Games-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@mel.osu">
-    <img src="https://img.shields.io/badge/TikTok-@mel.osu-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-  <a href="https://github.com/MEL55555">
-    <img src="https://img.shields.io/badge/GitHub-MEL55555-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<!--                         MEL / PROFILE                         -->
+
+<!-- ============================================================= -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,45:0B1728,75:00A8CC,100:00D4FF&height=230&section=header&text=MEL&fontSize=90&fontColor=00D4FF&fontAlignY=38&animation=twinkling"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=900&lines=GAME+PROGRAMMER+%2F%2F+GAME+DESIGNER;C%2B%2B+%7C+C%23+%7C+OPENGL+%7C+UNITY;GAMEPLAY+SYSTEMS+%7C+REAL-TIME+GRAPHICS;DESIGNING+%26+PROGRAMMING+INTERACTIVE+EXPERIENCES" alt="Typing SVG"/>
+
+<br><br>
+
+<a href="https://github.com/MelDevvv">
+<img src="https://img.shields.io/badge/GITHUB-0A101C?style=for-the-badge&logo=github&logoColor=00D4FF"/>
+</a>
+
+  
+
+<a href="https://meldev06.itch.io/">
+<img src="https://img.shields.io/badge/ITCH.IO-0A101C?style=for-the-badge&logo=itch.io&logoColor=00D4FF"/>
+</a>
+
+  
+
+<a href="https://www.tiktok.com/@mel.osu">
+<img src="https://img.shields.io/badge/TIKTOK-0A101C?style=for-the-badge&logo=tiktok&logoColor=00D4FF"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/GAME%20PROGRAMMING-00D4FF?style=flat-square&labelColor=0A101C"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GAME%20DESIGN-00D4FF?style=flat-square&labelColor=0A101C"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GRAPHICS-00D4FF?style=flat-square&labelColor=0A101C"/>
+
 </div>
 
-<br/>
+<br>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A101C&height=50&text=ABOUT%20%2F%2F%20MEL&fontSize=20&fontColor=00D4FF&font=Orbitron&animation=twinkling" width="100%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=16&duration=3500&pause=1200&color=7DD3FC&center=true&vCenter=true&width=850&lines=PROGRAMMING+%2B+DESIGN;FROM+SYSTEMS+TO+PLAYABLE+EXPERIENCES;BUILDING+THE+TECHNOLOGY+BEHIND+THE+GAME" alt="About"/>
+
+</div>
+
+<br>
 
 <p align="center">
-  🎓 <b>Game Design & Programming Student</b><br>
-  💡 Focused on graphics programming, real-time rendering, gameplay mechanics, and engine architecture.
+
+I'm a <strong>Game Design & Programming student</strong> developing my skills across both the technical and creative sides of game development.
+
+<br><br>
+
+My primary focus is <strong>programming gameplay systems and designing interactive experiences</strong>. I enjoy taking a game concept and turning it into something playable — building the underlying systems, implementing mechanics, creating responsive controls and refining how everything works together.
+
+<br><br>
+
+Alongside gameplay programming, I'm particularly interested in <strong>real-time graphics and rendering</strong>. Working with C++ and OpenGL has given me the opportunity to explore what happens beneath the engine level, while Unity allows me to rapidly prototype and experiment with gameplay and design.
+
+<br><br>
+
+My goal is to become a versatile game developer who understands both <strong>how a game is designed</strong> and <strong>how the technology behind it is built</strong>.
+
 </p>
 
+<br>
+
 ---
 
-## 🛠️ Tech Stack & Tools
+<div align="center">
 
-<p align="left">
-  <!-- Engines & Rendering -->
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <br/>
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A101C&height=50&text=TECHNOLOGY%20%2F%2F%20ARSENAL&fontSize=20&fontColor=00D4FF&font=Orbitron&animation=twinkling" width="100%"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,opengl,unity,unreal,git,blender&theme=dark&perline=8"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,cmake,linux&theme=dark&perline=5"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=14&duration=2500&pause=900&color=64748B&center=true&vCenter=true&width=850&lines=LANGUAGES+%2F%2F+C%2B%2B+%7C+C%23+%7C+PYTHON;ENGINES+%2F%2F+UNITY+%7C+UNREAL;GRAPHICS+%2F%2F+OPENGL;TOOLS+%2F%2F+VISUAL+STUDIO+%7C+GIT+%7C+BLENDER+%7C+VS+CODE" alt="Technology stack"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A101C&height=50&text=SELECTED%20WORK&fontSize=20&fontColor=00D4FF&font=Orbitron&animation=twinkling" width="100%"/>
+
+</div>
+
+<br>
+
+<!-- ============================================================= -->
+
+<!--                       PROJECT ONE                             -->
+
+<!-- ============================================================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=01+%2F%2F+GRAPHICS+PROGRAMMING" alt="Graphics Programming"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/C%2B%2B-101827?style=for-the-badge&logo=cplusplus&logoColor=00D4FF"/>
+<img src="https://img.shields.io/badge/OPENGL-101827?style=for-the-badge&logo=opengl&logoColor=00D4FF"/>
+
+<br><br>
+
+<a href="https://github.com/MelDevvv/Graphics_Programming">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00D4FF?style=for-the-badge&logo=github&logoColor=06111C"/>
+</a>
+
+</div>
+
+<br>
+
+<p align="center">
+
+<strong>Custom 3D graphical environment developed using C++ and OpenGL.</strong>
+
+<br><br>
+
+A graphics programming project focused on understanding and implementing the foundations of real-time rendering, interactive 3D environments and graphical systems.
+
 </p>
 
----
-
-## 🕹️ Featured Projects
-
-### 🎨 Graphics Programming Project
-> *Custom 3D graphical environment rendered with real-time controls using C++ and OpenGL.*
+<br>
 
 <div align="center">
-  <!-- REPLACE LINK BELOW WITH YOUR GIF/SCREENSHOT -->
-  <img src="https://via.placeholder.com/700x350/0f172a/64748b?text=Add+Graphics+Project+GIF+or+Screenshot" width="100%" style="border-radius:10px;" />
+
+<img src="https://img.shields.io/badge/3D%20RENDERING-101827?style=flat-square&logoColor=00D4FF"/>
+<img src="https://img.shields.io/badge/CAMERA%20SYSTEM-101827?style=flat-square"/>
+<img src="https://img.shields.io/badge/TRANSFORMATIONS-101827?style=flat-square"/>
+<img src="https://img.shields.io/badge/LIGHTING-101827?style=flat-square"/>
+<img src="https://img.shields.io/badge/SHADING-101827?style=flat-square"/>
+<img src="https://img.shields.io/badge/TEXTURES-101827?style=flat-square"/>
+
 </div>
 
-- **Engine / Tech:** C++ / OpenGL
-- **Key Features:** 3D object rendering, camera movement, object transformations, lighting, shading & texture mapping.
-- 🔗 **Repo:** [MEL55555/Graphics_Programming](https://github.com/MEL55555/Graphics_Programming)
+<br>
 
-<br/>
+<details>
+<summary><strong>TECHNICAL IMPLEMENTATION</strong></summary>
 
-### ⚙️ Games Prototyping Project
-> *Interactive game prototype demonstrating responsive gameplay controls, collision detection, and UI systems.*
+<br>
 
-<div align="center">
-  <!-- REPLACE LINK BELOW WITH YOUR GIF/SCREENSHOT -->
-  <img src="https://via.placeholder.com/700x350/0f172a/64748b?text=Add+Unity+Prototype+GIF+or+Screenshot" width="100%" style="border-radius:10px;" />
-</div>
+**Rendering**
 
-- **Engine / Tech:** Unity / C#
-- **Key Features:** Custom player controls, environment physics, UI flow, and state machines.
-- 🔗 **Repo:** [MEL55555/Game_Prototyping](https://github.com/MEL55555/Game_Prototyping)
+Custom 3D object rendering and scene construction using OpenGL.
 
----
+**Camera & Interaction**
 
-## 📊 Developer Activity
+Real-time camera controls and player movement for navigating the environment.
 
-<div align="center">
-  <!-- Reliable Dark-Themed Stats Widget -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MEL55555&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MEL55555&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</div>
+**Transformations**
 
-<br/>
+Position, rotation and scaling using transformation matrices.
 
-<div align="center">
-  <!-- Dynamic Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MEL55555&theme=tokyo-night&hide_border=true" width="100%" />
-</div>
+**Lighting & Shading**
+
+Implementation of lighting models and shading techniques to control how objects are visually represented.
+
+**Texture Mapping**
+
+Applying textures and materials to objects within the graphical environment.
+
+</details>
+
+<br>
 
 ---
 
+<!-- ============================================================= -->
+
+<!--                       PROJECT TWO                             -->
+
+<!-- ============================================================= -->
+
 <div align="center">
-  <sub><i>Building world mechanics, one system at a time.</i></sub>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=02+%2F%2F+GAME+PROTOTYPING" alt="Game Prototyping"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/UNITY-101827?style=for-the-badge&logo=unity&logoColor=00D4FF"/>
+<img src="https://img.shields.io/badge/C%23-101827?style=for-the-badge&logo=csharp&logoColor=00D4FF"/>
+
+<br><br>
+
+<a href="https://github.com/MelDevvv/Game_Prototyping">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00D4FF?style=for-the-badge&logo=github&logoColor=06111C"/>
+</a>
+
 </div>
+
+<br>
+
+<p align="center">
+
+<strong>Interactive game prototype developed in Unity and C#.</strong>
+
+<br><br>
+
+A gameplay-focused project exploring player movement, physics, collision systems, game states, UI and level design through rapid prototyping.
+
+</p>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PLAYER%20MOVEMENT-101827?style=flat-square"/>
+<img src="https://img.shields.io/badge/PHYSICS-101827?style=flat-square"/>
+<img src="https://img.shields.io/badge/COLLISION-101827?style=flat-square"/>
+<img src="https://img.shields.io/badge/UI%20SYSTEMS-101827?style=flat-square"/>
+<img src="https://img.shields.io/badge/GAME%20STATES-101827?style=flat-square"/>
+<img src="https://img.shields.io/badge/LEVEL%20DESIGN-101827?style=flat-square"/>
+
+</div>
+
+<br>
+
+<details>
+<summary><strong>TECHNICAL IMPLEMENTATION</strong></summary>
+
+<br>
+
+**Player Controller**
+
+Custom movement and responsive player controls.
+
+**Gameplay Systems**
+
+Game states and mechanics designed around the prototype's core gameplay loop.
+
+**Physics**
+
+3D physics integration and collision handling.
+
+**Level Design**
+
+Playable environments designed around the implemented mechanics.
+
+**UI**
+
+Menu systems and interface flow integrated into the game loop.
+
+**Iteration**
+
+Rapid testing and refinement of gameplay systems during development.
+
+</details>
+
+<br>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A101C&height=50&text=CURRENT%20FOCUS&fontSize=20&fontColor=00D4FF&font=Orbitron&animation=twinkling" width="100%"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=PROGRAMMING;GAMEPLAY+SYSTEMS;GAME+DESIGN;REAL-TIME+GRAPHICS;BUILDING+COMPLETE+PLAYABLE+EXPERIENCES" alt="Current Focus"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,unity,opengl&theme=dark&perline=4"/>
+
+<br><br>
+
+<strong>PROGRAMMING</strong>
+
+<br>
+
+Developing stronger programming fundamentals and building increasingly complex systems.
+
+<br><br>
+
+<strong>GAME DESIGN</strong>
+
+<br>
+
+Designing mechanics, player interactions and gameplay loops that translate ideas into playable experiences.
+
+<br><br>
+
+<strong>GAMEPLAY ENGINEERING</strong>
+
+<br>
+
+Combining programming and design to create responsive controllers, mechanics, systems and interactions.
+
+<br><br>
+
+<strong>GRAPHICS PROGRAMMING</strong>
+
+<br>
+
+Continuing to explore real-time rendering, OpenGL and the technical foundations behind modern games.
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A101C&height=50&text=DEVELOPMENT%20ACTIVITY&fontSize=20&fontColor=00D4FF&font=Orbitron&animation=twinkling" width="100%"/>
+
+<br><br>
+
+<a href="https://github.com/MelDevvv">
+  <img src="https://github-readme-stats.vercel.app/api?username=MelDevvv&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=7DD3FC&icon_color=00D4FF&bg_color=0A101C&v=1" height="165" alt="GitHub Stats" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/MelDevvv">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelDevvv&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=7DD3FC&bg_color=0A101C&v=1" height="165" alt="Top Languages" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/MelDevvv">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MelDevvv&theme=tokyonight&hide_border=true&background=0A101C&ring=00D4FF&fire=00D4FF&currStreakNum=00D4FF&sideNums=7DD3FC&currStreakLabel=7DD3FC&sideLabels=7DD3FC&dates=7DD3FC&v=1" height="165" alt="GitHub Streak" />
+</a>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=DESIGN.+PROGRAM.+ITERATE.;TURNING+IDEAS+INTO+PLAYABLE+SYSTEMS.;BUILDING+THE+TECHNOLOGY+BEHIND+THE+GAME." alt="Footer"/>
+
+<br><br>
+
+<a href="https://github.com/MelDevvv">
+<img src="https://img.shields.io/badge/GITHUB-0A101C?style=for-the-badge&logo=github&logoColor=00D4FF"/>
+</a>
+
+ 
+
+<a href="https://meldev06.itch.io/">
+<img src="https://img.shields.io/badge/ITCH.IO-0A101C?style=for-the-badge&logo=itch.io&logoColor=00D4FF"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=MelDevvv&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+<strong>PROGRAMMING • GAME DESIGN • GRAPHICS</strong>
+
+</div>
+
+<br>
+
+<!-- ============================================================= -->
+
+<!--                     ANIMATED FOOTER                           -->
+
+<!-- ============================================================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,35:087EA4,70:0B1728,100:050B14&height=160&section=footer&animation=twinkling"/>
