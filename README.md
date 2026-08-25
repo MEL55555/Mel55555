@@ -336,27 +336,6 @@ Continuing to explore real-time rendering, OpenGL and the technical foundations 
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A101C&height=50&text=DEVELOPMENT%20ACTIVITY&fontSize=20&fontColor=00D4FF&font=Orbitron&animation=twinkling" width="100%"/>
-
-<br><br>
-
-<a href="https://github.com/MelDevvv">
-  <img src="https://github-readme-stats.vercel.app/api?username=MelDevvv&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=7DD3FC&icon_color=00D4FF&bg_color=0A101C&v=1" height="165" alt="GitHub Stats" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/MelDevvv">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelDevvv&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=7DD3FC&bg_color=0A101C&v=1" height="165" alt="Top Languages" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/MelDevvv">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MelDevvv&theme=tokyonight&hide_border=true&background=0A101C&ring=00D4FF&fire=00D4FF&currStreakNum=00D4FF&sideNums=7DD3FC&currStreakLabel=7DD3FC&sideLabels=7DD3FC&dates=7DD3FC&v=1" height="165" alt="GitHub Streak" />
-</a>
-
-</div>
 
 <br>
 
